@@ -14,6 +14,7 @@ Hi, I'm Azam Asyraf! I build scalable web applications and enjoy exploring new t
 ### 📫 Connect with me
 
 - [LinkedIn](https://linkedin.com/in/azamasyraf)
+- [GitHub](https://github.com/azamasyraf)
 
 ---
 
