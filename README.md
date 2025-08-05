@@ -2,7 +2,7 @@
 
 ### 👋 About Me
 
-Hi, I'm Azam! I build scalable web applications and enjoy exploring new technologies. I’m passionate about creating great user experiences and writing clean codes.
+Hi, I'm Azam Asyraf! I build scalable web applications and enjoy exploring new technologies. I’m passionate about creating great user experiences and writing clean codes.
 
 ---
 
