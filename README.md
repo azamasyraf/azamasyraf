@@ -4,16 +4,12 @@
 
 Hi, I'm Azam Asyraf! I build scalable web applications and enjoy exploring new technologies. I’m passionate about creating great user experiences and writing clean codes.
 
----
-
 ### 🛠️ Tech Stack
 
 - Laravel & PHP
 - Vue & JavaScript
 - MySQL, Postgres
 - HTML, CSS, Bootstrap, Tailwind
-
----
 
 ### 📫 Connect with me
 
